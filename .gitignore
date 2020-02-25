@@ -1,4 +1,5 @@
 coverage
 *.gem
 .ruby-version
+.editorconfig
 tmp
