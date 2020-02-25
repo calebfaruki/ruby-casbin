@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    casbin (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.1.1)
+    minitest (5.14.0)
+    rake (13.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  casbin!
+  minitest
+  rake
+
+BUNDLED WITH
+   2.1.4
